@@ -1,0 +1,33 @@
+.pdf-download-section {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.pdf-download-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.pdf-download-section p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.download-button {
+    background-color: #2ecc71;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.download-button:hover {
+    background-color: #27ae60;
+}

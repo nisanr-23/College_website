@@ -1,0 +1,53 @@
+.header{
+    background-color: rgb(46, 143, 203);
+    line-height: 70px;
+    padding-left: 30px;
+    color: aliceblue;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+a,a:hover{
+    text-decoration: none!important;
+}
+.logout{
+    float:right;
+    padding-right: 30px;
+}
+
+ul{
+    background-color: rgb(46, 143, 203);
+    width: 16%;
+    height: 100%;
+    position:fixed;
+    padding-top: 5%;
+    text-align: center;
+}
+
+ul li{
+    list-style: none;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+
+ul li a{
+    color: white;
+    font-weight: bold;
+}
+
+ul li a:hover{
+    color: skyblue;
+    text-decoration: none;
+}
+
+.content{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+
+aside {
+    margin-top: 60px;
+}
