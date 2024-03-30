@@ -1,4 +1,4 @@
-This is a college website demo of Dinajpur Govt. City College with admin pannel.This is incomplete project.Many features needed to be included.
+This is a college website demo of Dinajpur Govt. City College with admin pannel(using php,js,html and css).This is incomplete project.Many features needed to be included.
 
 Features of the website:
 >>Shows Overview of the institute
